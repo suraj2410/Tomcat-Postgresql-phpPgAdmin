@@ -40,7 +40,7 @@ echo -e "Requires to be root in order to run this script\n"
 exit 127
 fi
 
-#Updating repo
+#Updating repo..
 
 #TOMCATPASSWORD=
 #while [[ $TOMCATPASSWORD = "" ]]; do
